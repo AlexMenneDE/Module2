@@ -2,6 +2,6 @@
 public class Hello {
 	public void Hallo()
 	{
-		System.out.println("Hi!");
+		System.out.println("Hi");
 	}
 }
